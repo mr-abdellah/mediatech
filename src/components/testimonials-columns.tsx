@@ -2,7 +2,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
-import { StaticImageData } from "next/image";
 
 export const TestimonialsColumn = ({
   className,
@@ -12,7 +11,7 @@ export const TestimonialsColumn = ({
   className?: string;
   testimonials: {
     text: string;
-    image?: string | StaticImageData | null;
+    image?: string | null;
     name: string;
   }[];
   duration?: number;
