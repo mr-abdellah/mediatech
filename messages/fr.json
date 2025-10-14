@@ -1,0 +1,140 @@
+{
+  "menu": {
+    "about": "À propos",
+    "services": "Services",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "languages": {
+    "fr": "Français",
+    "ar": "العربية"
+  },
+  "hero": {
+    "tagline": "Impression & Communication Visuelle de Qualité",
+    "title": "Donnez Vie à Votre Marque avec Media Tech",
+    "description": "Media Tech, votre partenaire d’impression et de marketing. De la conception graphique à la production, nous créons des supports qui captivent, inspirent et font rayonner votre entreprise.",
+    "cta": "Demander un Devis"
+  },
+  "services": {
+    "heading": "Nos Services",
+    "subheading": "Solutions complètes d'imprimerie et de développement digital pour propulser votre entreprise vers l'excellence.",
+    "features": [
+      {
+        "title": "Service Rapide",
+        "label": "Rapidité",
+        "description": "Délais de livraison optimisés et processus efficaces pour répondre à vos besoins urgents sans compromis sur la qualité."
+      },
+      {
+        "title": "Confiance & Fiabilité",
+        "label": "Sécurité",
+        "description": "Partenaire de confiance avec des années d'expertise. Votre satisfaction et la sécurité de vos projets sont notre priorité."
+      },
+      {
+        "title": "Qualité Premium",
+        "label": "Excellence",
+        "description": "Résultats exceptionnels garantis sur chaque projet avec une attention méticuleuse aux détails et aux finitions."
+      },
+      {
+        "title": "Impression Professionnelle",
+        "label": "Imprimerie",
+        "description": "Livres, documents, cartes de visite et supports marketing de haute qualité. Tous types de documents imprimés avec précision."
+      },
+      {
+        "title": "Développement Digital",
+        "label": "Tech",
+        "description": "Sites web modernes et applications mobiles performantes. Solutions digitales sur mesure pour votre entreprise."
+      },
+      {
+        "title": "Marketing & Publicité",
+        "label": "Communication",
+        "description": "Stratégies publicitaires efficaces et campagnes marketing qui génèrent des résultats mesurables et de la croissance."
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Avis Clients",
+    "heading": "Ce que disent nos clients",
+    "subheading": "Découvrez les retours de nos clients satisfaits.",
+    "t1": {
+      "text": "Excellent service, impressions de haute qualité, personnel sympathique. Je recommande vivement.",
+      "name": "Mohammed Raid BOUBAAYA"
+    },
+    "t2": {
+      "text": "Un travail professionnel et rigoureux",
+      "name": "Cg Cc"
+    },
+    "t3": {
+      "text": "Bravo les jeunes",
+      "name": "Pr. Nadir KHALFALLAH"
+    },
+    "t4": {
+      "text": "Merci pour votre aimable traitement et votre professionnalisme dans le travail",
+      "name": "Abderauof Boudehane"
+    },
+    "t5": {
+      "text": "Merci pour L’équipe Media tech travail professionnelle vivement.",
+      "name": "Laura Beauty"
+    },
+    "t6": {
+      "text": "Équipe très professionnelle et propre, je recommande vivement.",
+      "name": "Abdou Abdelkhalek"
+    },
+    "t7": {
+      "text": "Je vous le recommande. Khdma lah ibark 😊 ...",
+      "name": "Ahmed Amine Omani"
+    }
+  },
+  "cta": {
+    "badge": "Commencez dès maintenant",
+    "heading": "Donnez vie à votre marque avec <span>Media Tech</span>",
+    "description": "De la conception graphique à la production, nous créons des supports d’impression et des solutions digitales qui captivent, inspirent et propulsent votre entreprise vers l’excellence. Rejoignez-nous pour transformer vos idées en réalisations concrètes.",
+    "callNow": "Appeler maintenant",
+    "requestQuote": "Demander un devis"
+  },
+  "contact": {
+    "label": "Parlons de votre projet",
+    "heading": "Contactez-nous",
+    "description": "Une question, un projet ou besoin d'un devis ? Notre équipe est là pour vous accompagner et vous répondre dans les plus brefs délais.",
+    "openingHours": "📍 Horaires d'ouverture : Lun - Ven, 9h00 - 18h00",
+    "responseTime": "⚡ Réponse sous 24h maximum",
+    "form": {
+      "heading": "Envoyez-nous un message",
+      "subheading": "Remplissez le formulaire ci-dessous et nous vous recontacterons rapidement.",
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Téléphone",
+      "subject": "Objet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "privacy": "En envoyant ce formulaire, vous acceptez notre politique de confidentialité."
+    },
+    "contactInfo": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse"
+    }
+  },
+  "footer": {
+    "stayConnected": "Restez Connectés",
+    "quickLinks": "Liens rapides",
+    "contactUs": "Contactez-nous",
+    "followUs": "Suivez-nous",
+    "addressLine1": "123 Rue de l'Innovation",
+    "addressLine2": "Tech City, TC 12345",
+    "phone": "Téléphone: (123) 456-7890",
+    "email": "Email: hello@example.com",
+    "copyright": "© 2024 Votre Entreprise. Tous droits réservés.",
+    "menu": {
+      "about": "À propos",
+      "services": "Services",
+      "testimonials": "Avis Clients",
+      "contact": "Contact"
+    },
+    "social": {
+      "facebook": "Suivez-nous sur Facebook",
+      "twitter": "Suivez-nous sur Twitter",
+      "instagram": "Suivez-nous sur Instagram",
+      "tiktok": "Suivez-nous sur TikTok"
+    }
+  }
+}
