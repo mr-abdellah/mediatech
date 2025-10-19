@@ -24,12 +24,14 @@ const DEMO_IMAGES = [
   "/results/15.jpg",
 ];
 
+//tsawer
+
 export default function Home() {
   const t = useTranslations();
   return (
     <div className="w-full min-h-screen flex flex-col items-center container mx-auto p-6 max-w-7xl gap-y-16">
       <Header />
-
+{/* hero li fih tsawer */}
       <AnimatedMarqueeHero
         tagline={t("hero.tagline")}
         title={
@@ -43,8 +45,9 @@ export default function Home() {
         images={DEMO_IMAGES}
         className="min-h-[calc(100vh-200px)]"
       />
-
+{/* hadi les services */}
       <FeaturesSection />
+      {/* avis */}
       <Testimonials />
       <CTA />
       <ContactSection />
